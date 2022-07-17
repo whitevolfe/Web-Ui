@@ -1,0 +1,26 @@
+{
+  "name": "todo-next",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.9.3",
+    "@emotion/styled": "^11.9.3",
+    "@mui/icons-material": "^5.8.4",
+    "@mui/material": "^5.9.0",
+    "@mui/x-data-grid": "^5.13.1",
+    "formik": "^2.2.9",
+    "next": "^12.2.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-next": "12.2.2"
+  }
+}
